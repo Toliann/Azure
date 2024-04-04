@@ -20,7 +20,7 @@
 >ROUTING COST: 0
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/screenshoot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/Screenshot/1.png)
 
 #
 > Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
