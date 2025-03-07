@@ -11,24 +11,19 @@
 
 >POPULATION: None, ancient ruins.
 
->Conditions: Azura resembles an ancient Aztec civilization, with weathered temples and intricate carvings.
+>Conditions: Azure resembles an ancient Aztec civilization, with weathered temples and intricate carvings.
 
 >Fauna: Exotic wildlife roams among the ruins.
 
->HISTORY: Azura holds the secrets of a lost civilization.
+>HISTORY: Azure holds the secrets of a lost civilization.
 
 >ROUTING COST: 0
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/refs/heads/main/Screenshot/new2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/refs/heads/main/Screenshot/new3.png)
 
-#
-> Added LevelTag for compatibility with the Celestial Tint(sfDesat) mod
-
-## Special thanks
-
-- Thank you to **CashB0t** for the icon for the mod
 
 #
 ### My discord - tolian
-
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
